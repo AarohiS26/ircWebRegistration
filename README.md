@@ -1,8 +1,17 @@
 # IRC Web Registration
 
+## Version 1
+The v1 of this concept can be referenced in the [old and *not updated* README](https://git.com.de/LibertaCasa/webreg/src/branch/master/README.old.md)
+
+The v1.1 enhancements added by [Georg Pfuetzenreuter](https://git.com.de/Georg) implements support for additional SSO integration to our KeyCloak setup.
+It also works-in SSL support.
+
+This webform available [here](https://liberta.casa/register) is purely demonstrative and does not successfully `POST` user data
+
 ## Introduction
 
-This is a basic still WIP framework for registering an account on an ircd using a webform.
+This is a basic still WIP overhaul framework for registering an account on an ircd using a webform that is referenced above.
+
 
 ## Features
 
@@ -24,8 +33,10 @@ It is recommended to work within a virtual environment.
 
 ## Installation and Setup
 
-Todo!
+Todo! Refer to the issues and the __Milestones__ and __Projects__
+for more
+
 
 ### Note
 
-Only works with setups not requiring verification at this moment.
+Only works with setups not requiring verification at this moment as stated in #4 
