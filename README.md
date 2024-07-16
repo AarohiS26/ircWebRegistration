@@ -35,8 +35,3 @@ It is recommended to work within a virtual environment.
 
 Todo! Refer to the issues and the __Milestones__ and __Projects__
 for more
-
-
-### Note
-
-Only works with setups not requiring verification at this moment as stated in #4 
